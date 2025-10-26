@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> Bost Teacher Youtube  </title>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
-  <script src="//libtl.com/sdk.js" data-zone="10059074" data-sdk="show_10059074"></script>
+  <script src='//libtl.com/sdk.js' data-zone='10096337' data-sdk='show_10096337'></script>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
   <style>
@@ -262,11 +262,11 @@
   <script>
     const MIN_WITHDRAW = 1;
     const TASK_REWARD = 1;
-    const channelId = "-1002888228180";
-    const botToken = "8415323933:AAGAk95ihplRBEPthyUMxcOxZ2W9_oaFuYs";
+    const channelId = 10096337
+    const botToken = 8263641320:AAFFW5MQICXdyxshqqn8Ta9d73G1RwMo-1k
 
     const app = document.getElementById('app');
-    const tg = window.Telegram.WebApp;
+    const tg = window.10096337
     let user = { id: 'guest', username: 'guest', first_name: 'Guest' };
 
     try {
@@ -703,4 +703,5 @@
     renderHome();
   </script>
 </body>
+
 </html>
